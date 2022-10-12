@@ -1,0 +1,242 @@
+/* @import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+/* Обнулення */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+img{
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+	font-size: inherit;
+}
+button {
+	cursor: pointer;
+	color: inherit;
+	background-color: inherit;
+}
+body {
+	line-height: 1;
+}
+
+/* Шрифт */
+/* @font-face {
+	font-family: "";
+	src: url("../fonts/") format("woff2"), url("../fonts/") format("woff");
+	font-display: ;
+	font-weight: ;
+	font-style: ;
+	}
+  */
+
+/* -- */
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+
+.main {
+}
+.wrapper {
+}
+.one-page {
+}
+.one-page__container {
+	max-width: 810px;
+	margin: 0 auto;
+}
+.one-page__body {
+}
+.one-page__title {
+}
+.title {
+}
+.one-page__text-title {
+
+}
+.one-page__image {
+}
+.one-page__picture {
+}
+.one-page__main-text {
+}
+.main-text {
+}
+.one-page__text-main {
+}
+.one-page__text {
+
+}
+
+.text {
+}
+.one-page__one {
+}
+.one-page__two {
+}
+.one-page__quote {
+}
+.one-page__text-quote {
+}
+.one-page__list-header {
+}
+.text-list-header {
+}
+.one-page__list {
+}
+.list {
+}
+.one-page__item {
+}
+.one-page__bottom-text {
+}
+.two-page__list {
+}
+.list {
+}
+
+
+.two-page {
+}
+.two-page__container {
+	min-width: 1230px;
+	margin: 0 auto;
+}
+.two-page__body {
+}
+.two-page__subtitle {
+}
+.subtitle {
+}
+.text-subtitle {
+}
+.two-page__top-title {
+}
+.two-page__text-top-title {
+}
+.two-page__list {
+}
+.list {
+}
+.list--color {
+}
+.two-page__item {
+}
+.two-page__button {
+}
+.two-page__text-button {
+}
+.two-page__center-subtitle {
+}
+.two-page__text-center-subtitle {
+}
+.two-page__center-title {
+}
+.title {
+}
+.two-page__text-center-title {
+}
+.two-page__view {
+}
+.two-page__text-view {
+}
+.two-page__info {
+}
+.two-page__one {
+}
+.two-page__specification {
+}
+.two-page__speciality {
+}
+.work {
+}
+.price {
+}
+.two-page__two {
+}
+.two-page__speciality_bg-orange {
+}
+.two-page__three {
+}
+.two-page__four {
+}
+.two-page__five {
+}
+.two-page__six {
+}
+.two-page__speciality_bg-pink {
+}
+.two-page__buttom-subtitle {
+}
+.text-buttom-subtitle {
+}
+.two-page__bottom-title {
+}
+.two-page__text-bottom-title {
+}
+.two-page__menu {
+}
+.menu {
+}
+.menu__items {
+}
+.menu__item {
+}
+.menu__icon {
+}
+.menu__star {
+}
+.menu__text {
+}
+.menu__experienced {
+}
+.menu__like {
+}
+.menu__feedback {
+}
+.menu__layouts {
+}
+.menu__online {
+}
+.menu__chat {
+}
+.menu__community {
+}
+.two-page__last-title {
+}
+.two-page__text-last-title {
+}
+.two-page__last-text {
+}
+.text {
+}
+.two-page__text-last {
+}
+.two-page__image {
+}
+.two-page__pic {
+}
